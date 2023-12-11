@@ -56,13 +56,12 @@ p {
 	background-color: white;
 	border-color: white;
 }
-.glyphicon-large {
-	font-size: 100px;
-}
 .call-to-action {
 	text-align: center;
 }
 .call-to-action p {
 	margin-bottom: 30px;
-	font-family: sans-serif;
+	font-family: Arial, sans-serif;
+	font-size: 24px;
+	font-style: bold;
 }
