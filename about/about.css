@@ -1,3 +1,45 @@
 body{
     background: #27A967;
 }
+.metin{
+    text-align: center;
+    font-family: "Roboto", sans-serif;
+    font-size: 16px;
+    font-weight: bold;
+  }
+  h2,h3{
+    text-align:center;
+    font-family: "Montserrat", sans-serif;
+    font-weight: bold;
+  }
+  .container{
+    
+    margin-left: 10%;
+    margin-right: 10%;
+    
+  }
+  .jumbotron{
+    background-color:#eee;
+    margin-left: 10%;
+    margin-right: 10%;
+    margin-top: 4%;
+    border-radius: 9px;
+  }
+  
+  .resim{
+    width:80%;
+    margin-left: 10%;
+    margin-right: 10%;
+    border-color: white;
+    border-radius: 9px;
+    text-align: center;
+  }
+  .yazi{
+    text-align: center
+  }
+  
+  hr{
+    margin-left:10%;
+    margin-right:10%;
+  }
+
